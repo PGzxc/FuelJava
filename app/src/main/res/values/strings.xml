@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FuelJava</string>
+    <string name="fuel">通过Fuel进行网络请求</string>
+    <string name="fuelManager">通过FuelManager进行网络请求</string>
+
+
+    <!--请求方式-->
+    <string name="get">Get请求</string>
+    <string name="put">Put请求</string>
+    <string name="post">Post请求</string>
+    <string name="del">Delete请求</string>
+
+</resources>
